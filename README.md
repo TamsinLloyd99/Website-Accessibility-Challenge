@@ -1,12 +1,12 @@
 # Website-Accessibility-Challenge
 Challenge focusing on editing current coding to be more accessible.
 
-#User Story
+# User Story
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 
-#Acceptance Criteria
+# Acceptance Criteria
 Your website must meet accessibility standards. You can achieve this by completing the following:
 
 - Semantic HTML elements can be found throughout the source code
